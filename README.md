@@ -1,3 +1,3 @@
-- 🔭 Working as lead QA engineer at [Adyoulike](https://www.adyoulike.com/).
+- 🔭 Working as QA engineer at [Livestorm](https://livestorm.co).
 - 🌱 Maintaining [ha-tahoma](https://github.com/iMicknl/ha-tahoma), [pyhoma](https://github.com/iMicknl/python-tahoma-api) and [pymfy](https://github.com/tetienne/somfy-open-api)
 - ⚡ [Home Assistant](github.com/home-assistant/) enthusiast
